@@ -16,7 +16,8 @@ Para poder ejecutar el proyecto es necesario obtener una **API Key** para Gemini
 1. Crea una API Key en [Google AI Studio](https://aistudio.google.com/app/apikey?hl=es-419).
 2. Instalar Android Studio
 3. Instalar plugin Kotlin multiplatform
-4. Crea un archivo **local.properties** a nivel del proyecto y agrega la siguiente variable:
+4. Instalar Xcode (opcional si se quiere probar la app en iOS)
+5. Crea un archivo **local.properties** a nivel del proyecto y agrega la siguiente variable:
 
     ```properties
     API_KEY="YOUR_API_KEY"
