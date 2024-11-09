@@ -3,11 +3,11 @@ Dictionary AI es una aplicación multiplataforma que permite a los usuarios cono
 
 ## Características
 
-•	Búsqueda de significados de palabras y frases en inglés.
-•	Respuestas y explicaciones en español.
-•	Integración con Gemini AI para análisis y generación de contenido.
-•	Compatible con dispositivos iOS y Android gracias a Kotlin Multiplatform (KMP) y Compose Multiplatform.
-•	Basado en Clean Architecture para una separación clara de responsabilidades y fácil mantenimiento.
+-	Búsqueda de significados de palabras y frases en inglés.
+-	Respuestas y explicaciones en español.
+-	Integración con Gemini AI para análisis y generación de contenido.
+-	Compatible con dispositivos iOS y Android gracias a Kotlin Multiplatform (KMP) y Compose Multiplatform.
+-	Basado en Clean Architecture para una separación clara de responsabilidades y fácil mantenimiento.
 
 ## Requisitos
 
