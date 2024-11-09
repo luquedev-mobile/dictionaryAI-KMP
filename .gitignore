@@ -22,8 +22,6 @@ local.properties
 
 # iOS build files
 build/
-*.xcodeproj/
-*.xcworkspace/
 
 # Kotlin-specific files
 out/
