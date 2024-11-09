@@ -14,7 +14,7 @@ Dictionary AI es una aplicación multiplataforma que permite a los usuarios cono
 Para poder ejecutar el proyecto es necesario obtener una **API Key** para Gemini. Sigue los pasos a continuación:
 
 1. Crea una API Key en [Google AI Studio](https://aistudio.google.com/app/apikey?hl=es-419).
-2. Agrega la API Key en el archivo local.properties de la siguiente manera:
+2. Crea un archivo **local.properties** a nivel del proyecto y agrega la siguiente variable:
 
     ```properties
     API_KEY="YOUR_API_KEY"
