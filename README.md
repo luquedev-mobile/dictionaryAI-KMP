@@ -52,7 +52,9 @@ Este proyecto utiliza **Kotlin Multiplatform** y **Compose Multiplatform**. La a
 5. ejecuta ./gradlew clean
 ./gradlew build
 
-6. Ejecuta la aplicación
+6. Ejecuta la aplicación:
+
+   
    <img width="441" alt="image" src="https://github.com/user-attachments/assets/6313f3a7-4d2c-41a0-89ac-bf41181aad1b">
 
 
