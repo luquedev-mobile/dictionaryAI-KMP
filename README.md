@@ -50,7 +50,6 @@ Este proyecto utiliza **Kotlin Multiplatform** y **Compose Multiplatform**. La a
 4. Sincroniza el proyecto
    
 5. ejecuta ./gradlew clean
-./gradlew build
 
 6. Ejecuta la aplicación:
 
