@@ -14,7 +14,9 @@ Dictionary AI es una aplicación multiplataforma que permite a los usuarios cono
 Para poder ejecutar el proyecto es necesario obtener una **API Key** para Gemini. Sigue los pasos a continuación:
 
 1. Crea una API Key en [Google AI Studio](https://aistudio.google.com/app/apikey?hl=es-419).
-2. Crea un archivo **local.properties** a nivel del proyecto y agrega la siguiente variable:
+2. Instalar Android Studio
+3. Instalar plugin Kotlin multiplatform
+4. Crea un archivo **local.properties** a nivel del proyecto y agrega la siguiente variable:
 
     ```properties
     API_KEY="YOUR_API_KEY"
@@ -44,7 +46,14 @@ Este proyecto utiliza **Kotlin Multiplatform** y **Compose Multiplatform**. La a
 2. Abre el proyecto en Android Studio.
 
 3. Configura tu API Key en `local.properties` como se mencionó en la sección de requisitos.
+   
+4. Sincroniza el proyecto
+   
+5. ejecuta ./gradlew clean
+./gradlew build
 
-4. Ejecuta la aplicación en un emulador o dispositivo físico.
+6. Ejecuta la aplicación
+   <img width="441" alt="image" src="https://github.com/user-attachments/assets/6313f3a7-4d2c-41a0-89ac-bf41181aad1b">
+
 
 
